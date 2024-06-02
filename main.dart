@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(
-    // this is trial comment
+    // this is trial comment 2
     MaterialApp(
       debugShowCheckedModeBanner: false,
       home: HomeScreen(),
