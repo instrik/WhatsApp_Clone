@@ -1,10 +1,10 @@
 // ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables
-// trial comment 2
+// trial comment 0
 import 'package:flutter/material.dart';
 
 void main() {
   runApp(
-    // this is trial comment 5
+    
     MaterialApp(
       debugShowCheckedModeBanner: false,
       home: HomeScreen(),
